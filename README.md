@@ -1,4 +1,5 @@
-**Video Games Sales Analysis**
+**Video Games Sales Analysis**:
+
 This study examines the factors influencing video game sales and their impact on the market. By analyzing a comprehensive dataset encompassing various attributes such as genre, platform, release year, publisher, and regional sales, this research aims to identify key trends that drive the success of video games. The analysis employs statistical methods to predict sales performance and uncover correlations between different variables. Additionally, the analysis reveals regional preferences, highlighting the dominance of specific genres in North America, Europe, and Japan.
 Specifically, the study aims to answer the following questions:
 What genres and platforms are most associated with high sales figures?
